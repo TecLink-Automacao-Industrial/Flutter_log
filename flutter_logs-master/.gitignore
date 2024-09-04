@@ -1,0 +1,8 @@
+.packages
+.dart_tool/package_config_subset
+.dart_tool/version
+.dart_tool/package_config.json
+flutter_logs.iml
+.dart_tool/extension_discovery/vs_code.json
+example/pubspec.lock
+pubspec.lock
